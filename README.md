@@ -1,7 +1,7 @@
 ## Projects
 
 - [x] Bin2Dec
-- [ ] Border Radius Previewer
+- [x] Border Radius Previewer
 - [ ] Calculator
 - [ ] Christmas Lights
 - [ ] Cause Effect App
