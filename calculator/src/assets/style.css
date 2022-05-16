@@ -1,0 +1,34 @@
+.board{
+    background-color: #777;
+    display: inline-block;
+    border-radius: 5px;
+    width: 400px;
+    padding: 5px;
+}
+.display{
+    background-color: white;
+    border: 1px solid #999;
+    margin-bottom: 10px;
+}
+.display .input{
+    text-align: end;
+    line-height: 15px;
+    margin: 0;
+    padding: 10px 5px;
+}
+
+.keyboard .column{
+    background-color: white;
+    padding: 5px;
+    display: grid;
+    grid: 60px / 1fr 1fr 1fr 1fr;
+}
+button{
+    background-color: white;
+    border: 1px solid grey;
+    color: grey;
+    height: 50px;
+    width: 50px;
+    border-radius: 3px;
+    text-align: center;
+}
