@@ -3,7 +3,7 @@
 - [x] Bin2Dec
 - [x] Border Radius Previewer
 - [x] Calculator
-- [ ] Christmas Lights
+- [x] Christmas Lights
 - [ ] Cause Effect App
 - ...
 
