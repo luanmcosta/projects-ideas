@@ -2,20 +2,18 @@
 import {Person, PersonProps} from './../Person'
 
 interface ListProps {
-    personList: Array<PersonProps>
+    personList: Array<PersonProps>,
+    onSelectedPerson: (person: PersonProps) => void
 }
 
-export function List({personList}: ListProps){
+export function List({personList, onSelectedPerson}: ListProps){
     return (
         <>
             <ul>
                 {personList.map((person) => (
-                    <Person name={person.name} image={person.image} address={person.address} />
+                    <li onClick={()=>onSelectedPerson(person)}>{person.name}</li>
                 ))} 
             </ul>
-
-
-           
 
         </>
     )
