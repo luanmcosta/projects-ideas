@@ -5,7 +5,7 @@
 - [x] Calculator
 - [x] Christmas Lights
 - [x] Cause Effect App
-- [ ] Color cycle
+- [x] ColorCycle
 - [ ] Countdown Timer
 - [ ] CSV2JSON App
 - [ ] Dollars to Cents
