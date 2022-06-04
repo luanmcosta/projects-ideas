@@ -6,7 +6,7 @@
 - [x] Christmas Lights
 - [x] Cause Effect App
 - [x] ColorCycle
-- [ ] Countdown Timer
+- [x] Countdown Timer
 - [ ] CSV2JSON App
 - [ ] Dollars to Cents
 - [ ] Dynamic CSS Variable
